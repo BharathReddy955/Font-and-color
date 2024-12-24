@@ -1,0 +1,161 @@
+h1{
+    padding-bottom: 60px;
+    width: 300px;
+    height: 300px;
+    border: 2px solid white;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+}
+.main{
+    display: flex;
+    
+    
+}
+.box2{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+body{
+    background-color: lightpink;
+}
+h1{
+    background-color: white;
+}
+
+p{
+    font-family: Times New Roman;
+    
+    color: green;
+}
+
+.h2-container {
+    display: flex; /* Use flexbox to arrange items side by side */
+    gap: 2px;    /* Add space between the h2 elements */
+}
+.abc{
+    text-align: center;
+    
+}
+.fon-box{
+    flex-direction: left;
+    border: 2px solid #ccc; /* Creates the box */
+    border-radius: 10px; /* Rounds the corners */
+    padding: 20px; /* Adds inner spacing */
+    background-color: #f9f9f9; /* Light background */
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2); /* Adds shadow for a raised effect */
+    margin: 20px auto; /* Centers the box horizontally */
+    max-width: 600px; /* Limits the width */
+    text-align: center; /* Centers content inside */
+}
+
+
+.h2-container2 {
+    display: flex; /* Use flexbox to arrange items side by side */
+    gap: 2px;    /* Add space between the h2 elements */
+}
+.color-box1 {
+    flex-direction: left;
+    border: 2px solid #ccc; /* Creates the box */
+    border-radius: 10px; /* Rounds the corners */
+    padding: 20px; /* Adds inner spacing */
+    background-color: #f9f9f9; /* Light background */
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2); /* Adds shadow for a raised effect */
+    margin: 20px auto; /* Centers the box horizontally */
+    max-width: 600px; /* Limits the width */
+    text-align: center; /* Centers content inside */
+}
+.color-box {
+    border: 2px solid #ccc; /* Creates the box */
+    border-radius: 10px; /* Rounds the corners */
+    padding: 20px; /* Adds inner spacing */
+    background-color: #f9f9f9; /* Light background */
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2); /* Adds shadow for a raised effect */
+    margin: 20px auto; /* Centers the box horizontally */
+    max-width: 600px; /* Limits the width */
+    text-align: center; /* Centers content inside */
+}
+#red{
+    width: 20px;
+    height: 20px;
+  margin-left: 5px;
+    border: 2px solid red;  
+    border-radius: 50%;
+    background-color: red;
+}
+
+#green{
+    display: flex;
+    width: 20px;
+    height: 20px;
+   margin-left: 5px;
+    border: 2px solid green;
+    border-radius: 50%;
+    background-color: green;
+}
+#yellow{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    border: 2px solid yellow;
+    border-radius: 50%;
+    background-color: yellow;
+}
+#blue{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    border: 2px solid blue;
+    border-radius: 50%;
+    background-color: blue;
+}
+#violet{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    border: 2px solid violet;
+    border-radius: 50%;
+    background-color: violet;
+}
+#indigo{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    border: 2px solid indigo;
+    border-radius: 50%;
+    background-color: indigo;
+}
+#pink{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    border: 2px solid pink;
+    border-radius: 50%;
+    background-color: pink;
+}
+#cyan{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    border: 2px solid cyan;
+    border-radius: 50%;
+    background-color: cyan;
+}
+#black{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: black;
+}
+#grey{
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+    border: 2px solid grey;
+    border-radius: 50%;
+    background-color: grey;
+}
+
+    
